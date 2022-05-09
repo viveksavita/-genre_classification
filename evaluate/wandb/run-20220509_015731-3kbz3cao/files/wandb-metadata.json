@@ -1,0 +1,27 @@
+{
+    "os": "macOS-12.3.1-arm64-arm-64bit",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-05-09T00:57:32.579626",
+    "startedAt": "2022-05-09T00:57:31.957616",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/viveksavita/genre_classification.git",
+        "commit": "54a6c8a2cee8ceddf33833238138ed322dac46be"
+    },
+    "email": null,
+    "root": "/Users/viveksavita/Additional/udacity/genre_classification",
+    "host": "192.168.1.100",
+    "username": "viveksavita",
+    "executable": "/Users/viveksavita/miniforge3/envs/mlflow-49fe9df0d2ad37b866db193d41a6bd209735d239/bin/python"
+}

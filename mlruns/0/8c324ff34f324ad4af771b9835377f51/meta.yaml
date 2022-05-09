@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/viveksavita/Additional/udacity/genre_classification/mlruns/0/8c324ff34f324ad4af771b9835377f51/artifacts
+end_time: 1652056663871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 8c324ff34f324ad4af771b9835377f51
+run_uuid: 8c324ff34f324ad4af771b9835377f51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652056661561
+status: 4
+tags: []
+user_id: viveksavita

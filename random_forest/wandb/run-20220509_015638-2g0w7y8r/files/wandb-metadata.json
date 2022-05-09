@@ -1,0 +1,35 @@
+{
+    "os": "macOS-12.3.1-arm64-arm-64bit",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-05-09T00:56:39.417054",
+    "startedAt": "2022-05-09T00:56:38.380389",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "data_train.csv:latest",
+        "--model_config",
+        "/Users/viveksavita/Additional/udacity/genre_classification/outputs/2022-05-09/01-51-27/random_forest_config.yml",
+        "--export_artifact",
+        "model_export",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/viveksavita/genre_classification.git",
+        "commit": "54a6c8a2cee8ceddf33833238138ed322dac46be"
+    },
+    "email": null,
+    "root": "/Users/viveksavita/Additional/udacity/genre_classification",
+    "host": "192.168.1.100",
+    "username": "viveksavita",
+    "executable": "/Users/viveksavita/miniforge3/envs/mlflow-ea3743402290cf55f98bb5e75c6d832997b25f33/bin/python"
+}
